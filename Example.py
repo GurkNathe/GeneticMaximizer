@@ -6,7 +6,7 @@ Creator: GurkNathe
 """
 
 import matplotlib as mpl
-from Project3 import GeneticMaximizer
+from GeneticMaximizer import GeneticMaximizer
 
 """
 Initialize with bounds:
